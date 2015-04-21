@@ -4,7 +4,7 @@ ARM9嵌入式实验
 - 一 下图中IAR_Crack为IAR破解程序,CD_EWARM_6401_3812文件夹为IAR安装程序
 - ![1](http://img5.douban.com/view/photo/photo/public/p2239693923.jpg)
 - 二 打开CD_EWARM_6401_3812文件夹，双击选中图标autorn.exe 
-- ![2](http://img5.douban.com/view/photo/photo/public/p2239693937.jpg)
+- ![2](http://img3.douban.com/view/photo/large/public/p2239697463.jpg)
 - 三 双击autorun.exe后出现如下图所示的界面，并单击红笔圈住的部分
 - ![3](http://img5.douban.com/view/photo/photo/public/p2239693928.jpg)
 - 四 点击Next
