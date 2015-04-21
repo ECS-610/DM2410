@@ -28,5 +28,4 @@ ARM9嵌入式实验
 - 十三 点击Exit退出
 - ![13](http://img3.douban.com/view/photo/large/public/p2239693941.jpg)
 
-- [douban](wwww.douban.com)
 
