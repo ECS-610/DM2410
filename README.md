@@ -15,6 +15,7 @@ ARM9嵌入式实验
 - 十二 选择Install.
 - 十三 出现如下界面方框后打勾，然后点击Finsh.
 - 十四 点击Exit退出
+- ![14](http://www.douban.com/photos/photo/2239693941/large#)
 
 - [douban](wwww.douban.com)
 
