@@ -2,7 +2,7 @@
 
 ###注意： 
 #### - 1.win7 系统需在超级管理员权限下运行crack.exe和IRA安装程序 
-#### - 2.当提示更新JLink驱动时必须点选【否】 
+#### - 2.当提示更新JLink驱动时选【否】 
 
 ##IAR 6.40.1安装
 - 一 [IAR_Crack](http://pan.baidu.com/s/1i3kXLyP)为IAR破解程序,[CD_EWARM_6401_3812](http://pan.baidu.com/s/1gdIRNjH)为IAR安装程序   
