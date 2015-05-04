@@ -1,4 +1,4 @@
-#2 一个简例   
+# 一个简例--miniGUI    
 - 用IAR打开[miniGUI](http://pan.baidu.com/s/1dD3wN9f)工程项目:         
  ![菜单项](http://img3.douban.com/view/photo/large/public/p2239691074.jpg)       
 
