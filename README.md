@@ -7,7 +7,7 @@
 - 4.基于miniGUI的计算器
 - 5.基于miniGUI的餐厅点菜系统
 
-**一些代码：**
+**代码：**
 - [键盘&&触摸屏代码](http://pan.baidu.com/s/10LL8M)   
 - [miniGUI](http://pan.baidu.com/s/1o6MIjAa)
 
